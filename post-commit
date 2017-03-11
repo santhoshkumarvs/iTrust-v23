@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -X POST http://localhost:8080/job/iTrust-v23-testcases/build
